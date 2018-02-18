@@ -15,8 +15,8 @@ PCでサクッと図を描いてワンクリックでSlackに投稿できるア�
 ## 機能
 + マウスドラッグで絵を描く/白紙に戻す（react-drawable-canvasライブラリ）
 + Canvasデータを画像ファイルとして保存（Node.jsのFile Systemライブラリ）
-+ チャネル一覧から投稿先チャネルを選択（Slack API）。
-+ Postボタンで画像ファイルをSlack投稿（Slack API）。
++ プルダウンで投稿先Slackチャネルを選択（Slack API）
++ Postボタンで図をSlackへ投稿（Slack API）
 
 ## フレームワーク等
 + Electron
