@@ -1,8 +1,8 @@
 # draw-and-post
-PCでサクッと図を描いてワンクリックでSlackに投稿できるアプリ。
+PCでサクッと図を描いてワンクリックでSlackに投稿できるデスクトップアプリ。
 
 ## 説明
-2017年の[開発合宿](http://allabout-tech.hatenablog.com/entry/2017/07/31/114800)で、2日間で作ったアプリです。  
+2017年の[開発合宿](http://allabout-tech.hatenablog.com/entry/2017/07/31/114800)で、2日間で作ったElectronのアプリです。  
 
 [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate)をベースとして開発したので、実際にコーディングしたのはほぼ`app/components/Home.js`のみです。
 
